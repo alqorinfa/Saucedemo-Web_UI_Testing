@@ -1,0 +1,5 @@
+starter/CucumberTestSuite.class
+starter/pages/ProductsPage.class
+starter/stepdefinitions/LoginSteps.class
+starter/stepdefinitions/CartSteps.class
+starter/pages/LoginPage.class
